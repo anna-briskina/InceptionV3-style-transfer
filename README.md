@@ -1,4 +1,4 @@
-# Neural Style Transfer: Monet Paintings to Nature Photos
+# Neural Style Transfer: Nature Photos to Monet-style Paintings
 
 ## Overview
 This project implements Neural Style Transfer (NST), a deep learning technique that combines the content of one image with the artistic style of another. Specifically, it transforms photos of natural scenes into artworks that resemble Monet paintings. Using the Monet2Photo dataset, this project demonstrates how to blend the structural content of natural photos with the distinctive brushstrokes, textures, and colors of Monet's artistic style.
